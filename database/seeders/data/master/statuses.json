@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Open"
+    },
+    {
+        "name": "Progress"
+    },
+    {
+        "name": "Reviewed"
+    },
+    {
+        "name": "Closed"
+    }
+]
